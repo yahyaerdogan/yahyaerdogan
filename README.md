@@ -9,7 +9,7 @@
 
 - 👨‍💻 My personal website are available at [http://yahyaerdogan.com/](http://yahyaerdogan.com/)
 
-- 💬 Ask me about **JS technologies**
+- 💬 Ask me about **anything, anytime!**
 
 - 📫 How to reach me **yahyaerdogan1199@gmail.com**
 
