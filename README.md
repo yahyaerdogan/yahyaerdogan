@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yahyaerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="yahyaerdogan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yahyaerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="yahyaerdogan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yahyaerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="yahyaerdogan" height="20" width="20" /></a>
 <a href="https://instagram.com/yahya.erdogann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yahya.erdogann" height="30" width="40" /></a>
 </p>
 
