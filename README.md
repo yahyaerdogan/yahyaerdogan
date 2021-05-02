@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 <h3 align="center">Web and Mobile App Developer</h3>
 
-- 🔭 I’m currently working on [React Native](https://github.com/yahyaerdogan/petApp)
+- 🔭 I’m currently working on [Mobile App](https://github.com/yahyaerdogan/petApp)
 
 - 🌱 I’m currently learning **JS frameworks and libraries**
 
