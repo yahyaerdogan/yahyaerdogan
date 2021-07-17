@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **JS frameworks and libraries**
 
-- 👯 I’m looking to collaborate on **any of project**
-
 - 👨‍💻 My personal website are available at [http://yahyaerdogan.com/](http://yahyaerdogan.com/)
 
 - 💬 Ask me about **anything, anytime!**
 
-- 📫 How to reach me **yahyaerdogan1199@gmail.com**
+- 📫 How to reach me: **yahyaerdogan1199@gmail.com**
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaerdogan&show_icons=true&theme=midnight-purple)
