@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🔭 I’m currently working on [Mobile App](https://github.com/yahyaerdogan/petApp)
+- 🔭 I’m currently working as a Front-End Developer
 
 - 🌱 I’m currently learning **JS frameworks and libraries**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything, anytime!**
 
-- 📫 How to reach me: **yahyaerdogan1199@gmail.com**
+- 📫 How to reach me: **yhyrdgn@gmail.com**
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaerdogan&show_icons=true&theme=midnight-purple)
